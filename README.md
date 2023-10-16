@@ -1,4 +1,4 @@
-# The SVG Generator [![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+# General Employee Tracker [![License:WTFPL ](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 # Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
