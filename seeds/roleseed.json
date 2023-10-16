@@ -1,0 +1,17 @@
+[{
+    "title": "it",
+    "salary": 30000,
+    "department": "It"
+},{
+    "title": "HR",
+    "salary": 30000,
+    "department": "HR"
+},{
+    "title": "manager",
+    "salary": 80000,
+    "department": "management"
+},{
+    "title": "software engineer",
+    "salary": 30000,
+    "department": "It"
+}]

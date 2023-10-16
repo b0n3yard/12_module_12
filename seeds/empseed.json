@@ -1,0 +1,30 @@
+[{
+    "first_name": "jhon",
+    "last_name": "smith",
+    "manager": "jane smith",
+    "role": "it",
+    "salary": 30000,
+    "department": "It"
+
+},{
+    "first_name": "jane",
+    "last_name": "smith",
+    "manager": "",
+    "role": "manager",
+    "salary": 80000,
+    "department":"HR"
+},{
+    "first_name": "james",
+    "last_name": "freeman",
+    "manager": "gonzalo velez",
+    "role": "software engineer",
+    "salary": 80000,
+    "department":"It"
+},{
+    "first_name": "gonzalo",
+    "last_name": "velez",
+    "manager": "",
+    "role": "manager",
+    "salary": 80000,
+    "department":"It"
+}]
