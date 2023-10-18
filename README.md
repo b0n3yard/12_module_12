@@ -14,6 +14,10 @@ to install this project
 - run the included script in the console "npm test" 
 # usage  
 
+
+https://github.com/b0n3yard/general_employee_tracker/assets/6476766/33b788ab-1fdc-402a-b9d9-892951b35f4b
+
+
 <video width='320' height = '240' controls>
         <source src = './employee_traker.mp4' type = 'video/mp4'>
     </video>
